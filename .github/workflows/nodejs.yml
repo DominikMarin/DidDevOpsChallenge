@@ -1,4 +1,4 @@
-name: Node CI
+name: Node run install
 
 on: [push]
 
